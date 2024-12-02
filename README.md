@@ -1,4 +1,6 @@
 # Game Phá Gạch (Breakout Game)
+![image](https://github.com/user-attachments/assets/b916cb42-1e1d-4804-9925-f81bbaf2ec18)
+
 
 Game phá gạch cổ điển được viết bằng HTML5 Canvas và JavaScript thuần.
 
@@ -52,7 +54,7 @@ Game phá gạch cổ điển được viết bằng HTML5 Canvas và JavaScript
 
 ## Tác giả
 
-[Tên của bạn]
+HartLow
 
 ## License
 
